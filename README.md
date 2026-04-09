@@ -24,7 +24,7 @@
     <h2>Compétences Techniques</h2>
     <ul class="skills-list">
         <li>HTML/CSS(Boostrap)</li>
-        <li>Server dns</li>
+        <li>Server DNS</li>
         <li>Openssh</li>
         <li>Docker</li>
         <li>JavaScript</li>
@@ -34,5 +34,6 @@
         <li>CMS</li>
         <li>Wordpress</li>
         <li>GitLab(CI/CD)</li>
+        <li>Bash/Shell</li>
     </ul>
 </section>

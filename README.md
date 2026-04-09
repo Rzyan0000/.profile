@@ -33,5 +33,6 @@
         <li>Linux</li>
         <li>CMS</li>
         <li>Wordpress</li>
+        <li>GitLab(CI/CD)</li>
     </ul>
 </section>
